@@ -1,6 +1,3 @@
-# europython2018
-EuroPython2018 Materials
-
 ## OpenSpace - Teaching Python to Beginners
 
 ### Topics to discuss
