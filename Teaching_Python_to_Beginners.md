@@ -39,15 +39,10 @@ property!
  "flow", the two preconditions for this are the right difficulty level (not too
    hard, not too easy) and that there is a tight feedback loop.
  * Set the goals (long term on shorter) – real problems to solve
- * Examples of things like this:
-  * games
-  * things that can be understood easily
-  * visualisations
-  * IPyWidgets / graphs to show results of functions
  * Have the exercises be *simple* but *real*:
-  * Simplified for the student
-  * Real problem to solve
-  * Result looks like something you know or use
+     * Simplified for the student
+     * Real problem to solve
+     * Result looks like something you know or use
  * Give existing code for student to tinker with, not get them to build from
  scratch. This will give a visible result quicker.
 
@@ -79,8 +74,8 @@ very specific "blind spots" -- there are many others
  * Involve other students to help other, especially for the problem he can solve
  * Take last year students as assistants
  * People that attend but does not want to do anything. They just want it to happen
-  * Make format less academic – make it a workshop
-  * Provide lecture in advance as recording, make it interactive during the class
+     * Make format less academic – make it a workshop
+     * Provide lecture in advance as recording, make it interactive during the class
  * Group students with mixed level like code dojos (but not too different levels)
  * Have some simple materials for slow students, have more difficult tasks for advanced
  * Have prepared flow, so most of the audience can flow by themselves, and you focus on blocked folks
