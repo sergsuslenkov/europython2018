@@ -17,9 +17,7 @@ EuroPython2018 Materials
  *	Provide ways for little successes
  *	Motivation
  *	Show students that even teacher can make mistake, but it is easy to overtake them
- *	Never say: Don’t worry – it is easy
- 
-    Say: Why not give it a try?
+ *	Never say: Don’t worry – it is easy. Say: Why not give it a try?
  *	Avoid red error messages
  *	Show/use student’s solution as an example
 
@@ -39,10 +37,8 @@ EuroPython2018 Materials
 4. __Conceptual difficulties__
  * Explain in different words (functions for maths are confusing)
  * Don’t push on some subject if it is not critical, probably they come to it later
- * other students may explain to the fellow
- 
-   build the team
- * involve students to be function/variable/turtle/class – make it real life
+ * other students may explain to the fellow. It helps develop personal relationships, build a team
+ * involve students to be function/variable/turtle/class – make it real life.
 
    DEBUG async code with people per function!
  * Teach two languages at the time – to show that language is not the goal, it is interchangeable
